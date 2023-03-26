@@ -25,6 +25,7 @@ public class NewMain {
             p.addToShoppingCart();
             System.out.println();
         }
+        
     }
 
  
